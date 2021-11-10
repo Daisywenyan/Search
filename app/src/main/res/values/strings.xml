@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PhotoSearch</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Name:***</string>
+    <string name="nav_header_subtitle">VersionCode:1.0.1</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_help">Help</string>
+    <string name="bt_search">Search</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Chat</string>
+    <string name="menu_slideshow">Help</string>
+</resources>
